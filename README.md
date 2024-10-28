@@ -23,13 +23,13 @@ InsightMiner는 여러 키워드를 탐색하고, 각 키워드에 해당하는 
 ```bash
 pip install selenium pandas webdriver-manager
 ```
-## 📁 설치 및 실행
+## 프로젝트 클론
 ```bash
 git clone https://github.com/yourusername/InsightMiner.git
 cd InsightMiner
 ```
 
 🖥️ 코드 구조
-- InsightMiner.py: 메인 크롤링 스크립트로, InsightMiner의 모든 기능을 담고 있습니다.
-- slack_file_upload.py: Slack에 파일을 업로드하는 유틸리티 모듈입니다.
-- file_date.py: 날짜 형식을 관리하는 모듈로, 데이터팀의 날짜 형식에 맞춘 정보를 제공합니다.
+- **InsightMiner.py**: 메인 크롤링 스크립트로, InsightMiner의 모든 기능을 담고 있습니다.
+- **slack_file_upload.py**: Slack에 파일을 업로드하는 유틸리티 모듈입니다.
+- **file_date.py**: 날짜 형식을 관리하는 모듈로, 데이터팀의 날짜 형식에 맞춘 정보를 제공합니다.
