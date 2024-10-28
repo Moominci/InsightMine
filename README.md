@@ -24,7 +24,6 @@ InsightMiner는 여러 키워드를 탐색하고, 각 키워드에 해당하는 
 pip install selenium pandas webdriver-manager
 
 ## 프로젝트 클론
-```bash
 git clone https://github.com/yourusername/InsightMiner.git
 cd InsightMiner
 
