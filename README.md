@@ -27,7 +27,7 @@ pip install selenium pandas webdriver-manager
 ```
 #### 프로젝트 클론
 ```bash
-git clone https://github.com/yourusername/InsightMiner.git
+git clone https://github.com/Moominci/InsightMiner.git
 cd InsightMiner
 ```
 
